@@ -1,2 +1,2 @@
-# Codecademy-Data-science-Path
+# Codecademy-Data Visualisation
 Projects completed throughout the Course
