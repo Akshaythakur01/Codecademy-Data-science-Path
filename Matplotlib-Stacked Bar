@@ -27,4 +27,4 @@ plt.xlabel('Unit')
 plt.ylabel('Number of students')
 
 plt.show()
-plt.savefig('Grade distribution stacked bar')
+plt.savefig('Grade_distribution_stacked_bar.png')
